@@ -1,0 +1,57 @@
+Adding user kli320 to group authjobs
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:255430604
+e_time.tv_sec:1476801085, e_time.tv_nsec:767904709
+[diff_time:2.512474105 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:255915181
+e_time.tv_sec:1476801085, e_time.tv_nsec:768258099
+[diff_time:2.512342918 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:255645022
+e_time.tv_sec:1476801085, e_time.tv_nsec:768006281
+[diff_time:2.512361259 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:255579630
+e_time.tv_sec:1476801085, e_time.tv_nsec:767823905
+[diff_time:2.512244275 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:255596878
+e_time.tv_sec:1476801085, e_time.tv_nsec:768005291
+[diff_time:2.512408413 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:255973180
+e_time.tv_sec:1476801085, e_time.tv_nsec:767934279
+[diff_time:2.511961099 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:256082630
+e_time.tv_sec:1476801085, e_time.tv_nsec:768106369
+[diff_time:2.512023739 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:255661977
+e_time.tv_sec:1476801085, e_time.tv_nsec:768047381
+[diff_time:2.512385404 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:255878656
+e_time.tv_sec:1476801085, e_time.tv_nsec:767962679
+[diff_time:2.512084023 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:256818813
+e_time.tv_sec:1476801085, e_time.tv_nsec:768851010
+[diff_time:2.512032197 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476801083, s_time.tv_nsec:256611914
+e_time.tv_sec:1476801085, e_time.tv_nsec:768769899
+[diff_time:2.512157985 sec]
+Removing user kli320 from group authjobs

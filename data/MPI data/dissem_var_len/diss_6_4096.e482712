@@ -1,0 +1,8 @@
+=>> PBS: job killed: walltime 1825 exceeded limit 1800
+mpirun: killing job...
+
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 7935 on node jinx2 exited on signal 0 (Unknown signal 0).
+--------------------------------------------------------------------------
+mpirun: clean termination accomplished
+

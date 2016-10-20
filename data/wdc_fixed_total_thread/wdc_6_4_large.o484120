@@ -1,0 +1,32 @@
+Adding user kli320 to group authjobs
+
+***************** Total time *****************
+s_time.tv_sec:1476837319, s_time.tv_nsec:076917306
+e_time.tv_sec:1476837319, e_time.tv_nsec:133996339
+[diff_time:0.057079033 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476837319, s_time.tv_nsec:077149657
+e_time.tv_sec:1476837319, e_time.tv_nsec:133771581
+[diff_time:0.056621924 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476837319, s_time.tv_nsec:087460781
+e_time.tv_sec:1476837319, e_time.tv_nsec:133790424
+[diff_time:0.046329643 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476837319, s_time.tv_nsec:077068772
+e_time.tv_sec:1476837319, e_time.tv_nsec:133683872
+[diff_time:0.056615100 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476837319, s_time.tv_nsec:077446245
+e_time.tv_sec:1476837319, e_time.tv_nsec:134055778
+[diff_time:0.056609533 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476837319, s_time.tv_nsec:078075049
+e_time.tv_sec:1476837319, e_time.tv_nsec:134939750
+[diff_time:0.056864701 sec]
+Removing user kli320 from group authjobs

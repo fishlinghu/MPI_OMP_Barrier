@@ -1,0 +1,12 @@
+Adding user kli320 to group authjobs
+
+***************** Total time *****************
+s_time.tv_sec:1476687708, s_time.tv_nsec:383886200
+e_time.tv_sec:1476687723, e_time.tv_nsec:860139980
+[diff_time:15.476253780 sec]
+
+***************** Total time *****************
+s_time.tv_sec:1476687708, s_time.tv_nsec:384173013
+e_time.tv_sec:1476687723, e_time.tv_nsec:860367861
+[diff_time:15.476194848 sec]
+Removing user kli320 from group authjobs
